@@ -1,1 +1,1 @@
-import.ggh.pyc
+import ggh.pyc
