@@ -1,1 +1,1 @@
-import ggh.cpython-39.pyc
+import ggh.pyc
